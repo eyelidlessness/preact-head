@@ -2,6 +2,7 @@
   "name": "preact-head",
   "description": "Declarative `<Head />` for preact",
   "version": "1.0.3",
+  "type": "module",
   "types": "./index.d.ts",
   "peerDependencies": {
     "preact": "*"
